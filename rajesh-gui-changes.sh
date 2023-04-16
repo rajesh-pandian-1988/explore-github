@@ -1,3 +1,3 @@
 mkdir rajesh-gui
 ls
-cd
+cd rajesh-folder
