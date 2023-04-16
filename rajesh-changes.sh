@@ -1,4 +1,4 @@
-mkdir rajesh-folder
-touch rajesh-file
+mkdir afternoon-folder
+touch afternoon-file
 ls 
 cd
