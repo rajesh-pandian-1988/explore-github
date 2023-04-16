@@ -1,2 +1,4 @@
-mkdri rajesh-folder
+mkdir rajesh-folder
 touch rajesh-file
+ls 
+cd
