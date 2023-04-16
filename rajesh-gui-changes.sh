@@ -1,3 +1,3 @@
 mkdir rajesh-gui
 ls
-cd
+cd dev-1-folder
