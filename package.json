@@ -1,0 +1,22 @@
+{
+  "name": "@rajesh-pandian-1988/explore-github",
+  "version": "1.0.0",
+  "description": "This repository is to learn github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajesh-pandian-1988/explore-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajesh-pandian-1988/explore-github/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://github.com/rajesh-pandian-1988/explore-github#readme"
+}
